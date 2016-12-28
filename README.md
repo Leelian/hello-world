@@ -1,2 +1,2 @@
 # hello-world
-Nothing peculiar
+Lorem ipsum dolor sit amet.
